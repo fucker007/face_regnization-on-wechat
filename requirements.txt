@@ -1,0 +1,7 @@
+tornado
+pillow
+opencv-python
+pymongo
+wtforms
+werkzeug
+face_recognition
